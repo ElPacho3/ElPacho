@@ -13,6 +13,7 @@
   "dependencies": {
     "minti_fulkerson": "0.1.4"
   },
+  
   "author": "",
   "license": "ISC",
   "bugs": {
